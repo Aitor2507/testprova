@@ -34,8 +34,10 @@ print ("Hola")
 
 ### Como poner una imagen
 
+![IMG][logo]
+[logo]: https://github.com/Aitor2507/testprova/blob/main/image22.jpeg "Logo Title Text 2"
 
-[Gambling](https://github.com/Aitor2507/testprova/blob/main/image22.png "Tit opcional")
+[Gambling](https://github.com/Aitor2507/testprova/blob/main/image22.jpeg "Tit opcional")
 
 ## Como hacer tablas
 
