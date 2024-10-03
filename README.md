@@ -34,11 +34,13 @@ print ("Hola")
 
 ### Como poner una imagen
 
-[Gambling](https://github.com/Aitor2507/testprova/blob/main/image22.jpeg "Tit opcional")
+
+[Gambling](https://github.com/Aitor2507/testprova/blob/main/image22.png "Tit opcional")
 
 ## Como hacer tablas
-| Título 1 | Título 2 | Título 3 |
-|-----------|---------;|;------------;|    
-| SMX2 | Curso 2324 | 25 |
-| **ASIX1** | Curso 2425 | 33 |
-| DAW2 | Curso 2425 | 32 |
+
+|Título 1 | Título 2| Título 3 |
+|-----------|---------:|:------------:|    
+|SMX2|Curso 2324|25|
+|**ASIX1**|Curso 2425|33|
+|DAW2|Curso 2425|32|
